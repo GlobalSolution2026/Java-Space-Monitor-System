@@ -243,14 +243,6 @@ mvn spring-boot:run
 
 ---
 
-# 👨‍💻 Integrantes
-
-* Nome 1
-* Nome 2
-* Nome 3
-
----
-
 # 📌 Considerações Finais
 
 O projeto demonstra a utilização de tecnologias modernas para monitoramento ambiental, utilizando conceitos de engenharia de software, APIs REST e banco de dados para criar uma solução organizada, escalável e alinhada ao desafio proposto.
