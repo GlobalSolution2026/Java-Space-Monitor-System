@@ -237,7 +237,7 @@ mvn spring-boot:run
 
 <img width="900" alt="Listagem Sensor" src="java26-projeto-cp3-main/prints/postman-alerta.png">
 
-<img width="900" alt="Delete Logico" src="java26-projeto-cp3-main/prints/codigo.png">
+<img width="900" alt="Delete Logico" src="https://raw.githubusercontent.com/GlobalSolution2026/Java-Space-Monitor-System/main/java26-projeto-cp3-main/prints/codigo.png">
 
 <img width="900" alt="Banco de Dados" src="java26-projeto-cp3-main/prints/mysql.png">
 
