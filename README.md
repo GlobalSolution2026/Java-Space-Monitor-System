@@ -237,9 +237,9 @@ mvn spring-boot:run
 
 ![Postman2](images/Postman2.jpeg)
 
-![Sql1](images/Sql2.jpeg)
+![Sql1](images/Sql3.jpeg)
 
-![Sql2](images/Sql2.jpeg)
+![Sql2](images/Sql4.jpeg)
 
 ---
 
