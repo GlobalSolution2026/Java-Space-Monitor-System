@@ -233,13 +233,13 @@ mvn spring-boot:run
 
 # 📸 Evidências de Execução
 
-<img width="900" alt="Postman de Sensor" src="java26-projeto-cp3-main/prints/postman-sensor.png">
+![Postman1](images/Postman1.jpeg)
 
-<img width="900" alt="Listagem Sensor" src="java26-projeto-cp3-main/prints/postman-alerta.png">
+![Postman2](images/Postman2.jpeg)
 
-<img width="900" alt="Delete Logico" src="https://raw.githubusercontent.com/GlobalSolution2026/Java-Space-Monitor-System/main/java26-projeto-cp3-main/prints/codigo.png">
+![Sql1](images/Sql2.jpeg)
 
-<img width="900" alt="Banco de Dados" src="java26-projeto-cp3-main/prints/mysql.png">
+![Sql2](images/Sql2.jpeg)
 
 ---
 
